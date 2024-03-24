@@ -1,0 +1,8 @@
+NUMBER GUESSING GAME
+
+
+to play this game open a command prompt and then type npx command which is giving bellow, and enjoy the game ! :)
+
+
+npx @sumaira_shaikh/cli-number-guessing
+
